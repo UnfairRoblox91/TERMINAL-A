@@ -1,6 +1,6 @@
 # Terminal-A
 
-Dynamic console application that lets you create, and execute custom commands on the fly. Users can add commands as JSON files in the `commands` folder, and Terminal-A automatically refreshes to include them—no restart required. Perfect for testing scripts, automating tasks, or building your own interactive terminal.
+Dynamic console application that lets you create, and execute custom commands on spot.
 
 ---
 
