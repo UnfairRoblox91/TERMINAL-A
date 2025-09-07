@@ -1,0 +1,5 @@
+{
+  "FunctionName": "hello",
+  "Description": "Say hello to the user",
+  "Code": "Console.WriteLine(\"Hello, user!\");"
+}
